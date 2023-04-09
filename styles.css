@@ -229,7 +229,7 @@ input[type=submit]:hover {
   .know { grid-area: know;}
   #indexbody{
     background:
-        #57352F;
+    #E3D5D5;
     
   }
   #toppage{
@@ -348,7 +348,7 @@ video{
     rgba(0, 0, 0, 0.5)), 
     url("images/hero2.jpg");
   height: 100%;
-  width: 100%;
+  
   background-position: center;
   background-repeat: no-repeat;
   background-size: auto; 
